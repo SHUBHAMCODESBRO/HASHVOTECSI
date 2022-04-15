@@ -50,7 +50,8 @@ Installation guide : https://www.codeooze.com/blockchain/ethereum-dev-environmen
 #### Steps to run our code
 1. Git clone this repository using the command :
 
-```https://github.com/SHUBHAMCODESBRO/HASHVOTECSI
+```
+https://github.com/SHUBHAMCODESBRO/HASHVOTECSI
 ```
 
 2. It will be saved in the directory vote. Change directory using
