@@ -27,7 +27,7 @@ Blockchain allows for anonymity when voting. As with transactions on the blockch
 #### Processing Time
 Current voting systems often take time to collate and process answers. Often when voting stations are in different areas and offices are not all together, it can be difficult to gather all the information quickly and efficiently. This then leads to time and cost issues.Results can be gathered and processed quickly and straight after the voting has finished.
 
-Refer to the UniVote.pdf for more details about the objectives and working of this application!  
+Refer to the HashVote.pdf for more details about the objectives and working of this application!  
 
 
 ### Implementation of Blockchain
